@@ -4,10 +4,10 @@
 
 I am Nanashi a.k.a Soumyadip Sanyal. I am an aspiring software developer. I love learning new languages and frameworks like React JS, Next JS and Flutter and I constantly try to adapt myself to new skills to always create a better version of myself.
 
-Skills: NODE JS / REACT / JS / HTML / CSS
+Skills: NODE JS / REACT / JS / HTML / SCSS / NEXT.JS / TYPESCRIPT / TAILWINDCSS
 
 - 🔭 I’m currently working on MERN App 
-- 🌱 I’m currently learning React and React Native 
+- 🌱 I’m currently learning React and NextJS 
 - 🤔 I’m looking for help with To get experience on WebDev 
 - 📫 How to reach me: We can connect LinkenIn, Instagram or Facebook 
 - ⚡ Fun fact: I love gaming 😅 
