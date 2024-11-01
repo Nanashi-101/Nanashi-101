@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nanashi-101&label=Profile%20views&color=0e75b6&style=flat" alt="nanashi-101" /> </p>
 
-- 🔭 I’m currently working on [Airbnb Clone](https://airbnb-clone-zeta-indol.vercel.app)
+- 🔭 I’m currently working on [ChromaUI - A digital market place](https://chroma-ui-ecru.vercel.app)
 
 - 🌱 I’m currently learning **NextJs, Angular, Flutter**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-site-olive-two.vercel.app](https://portfolio-site-olive-two.vercel.app)
+- 👨‍💻 All of my projects are available at [My Website](https://portfolio-site-olive-two.vercel.app)
 
 - 💬 Ask me about **React, Typescript, NextJs, Tailwindcss**
 
